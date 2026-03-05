@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # backup-to-truenas.sh
-# Back up the user's home directory directly to TrueNAS SCALE over SSH.
+# Back up the home directory directly to TrueNAS SCALE over SSH.
 # Intended to be run manually or on a schedule via cron.
 
 echo "Starting rsync backup to TrueNAS at $(date)" >> ~/rsync_backup.log

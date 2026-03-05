@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to this homelab repository will be documented in this file.
+All noteworthy changes to this homelab repository will be documented here.
 
 ## [2025-06-01]
 
@@ -21,3 +21,13 @@ All notable changes to this homelab repository will be documented in this file.
 ### Fixed
 
 - Slow boot issue caused by `mnt-truenas.mount` hanging on startup
+
+## [2026-03-05]
+
+### Removed
+
+- Deleted the internal `diagrams/` directory
+
+### Fixed
+
+- Spent time updating the README.md file to ensure the information shared is accurate and useful
