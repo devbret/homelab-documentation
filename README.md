@@ -6,7 +6,7 @@ Welcome to the documentation for my self-hosted homelab project. These files ref
 
 The following diagram shows the current physical layout of my homelab:
 
-![Homelab Network Topology](https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/b5950ae8-e3a6-4f62-a51d-4a7f8226bd90.jpg)
+![Homelab Network Topology](https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/28d10e62-f90a-4af8-a50c-3d084ed28a67.jpg)
 
 ## Focus Areas And Technologies
 
