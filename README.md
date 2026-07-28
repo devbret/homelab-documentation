@@ -1,12 +1,12 @@
 # Homelab Documentation
 
-Welcome to the documentation for my self-hosted homelab project. These files reflect a customized hands-on environment where I deploy and manage a wide variety of hardware and services. Such as a local Kubernetes cluster running Mistral-7B for private AI inference. It also includes core utilities like Pi-hole, TrueNAS, Grafana, Proxmox and OPNsense to support DevOps workflows, network security and infrastructure experimentation.
+Welcome to the documentation for my self-hosted homelab project. These files reflect a customized hands-on environment where I build, deploy and manage a wide variety of hardware and services. Such as a local Kubernetes cluster running Mistral-7B for private AI inference. It also includes core utilities like Pi-hole, TrueNAS, Grafana, Proxmox, Linux and OPNsense to support DevOps workflows, network security and infrastructure experimentation.
 
 ## Network Topology
 
 The following diagram shows the current physical layout of my homelab:
 
-![Homelab Network Topology](https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/ae5bf463-60ab-423a-989a-3e9594bb8ce8.jpg)
+![Homelab Network Topology](https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/fb3687ee-55e1-4672-9c37-2cc4cf1ba5e8.jpg)
 
 ## Focus Areas And Technologies
 
@@ -62,10 +62,8 @@ My homelab serves as a long-term platform for skill development and technical ex
 
 The following directory layout provides an overview of how this homelab repository is organized. Each folder serves a specific purpose, from Kubernetes manifests and Docker configurations to architecture diagrams and system automation scripts. This structure is designed to keep the project modular, maintainable and easy to extend as the homelab evolves.
 
-    /homelab
+    /homelab-documentation
     ├── README.md
-    ├── kubernetes/ Cluster manifests and deployment files
-    ├── docker/ Compose files for services
     ├── scripts/ Automation and backup scripts
     ├── notes/ Configuration notes and issue logs
 
