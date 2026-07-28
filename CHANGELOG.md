@@ -31,3 +31,15 @@ All noteworthy changes to this homelab repository will be documented here.
 ### Fixed
 
 - Spent time updating the README.md file to ensure the information shared is accurate and useful
+
+## [2026-07-27]
+
+### Added
+
+- `homelab-network-overview.md`: Markdown file outlining my homelab topology in greater detail
+
+### Fixed
+
+- `backup-to-truenas.sh`: Updated Shell script with current version
+
+- `README.md`: Improved word choices and structure
