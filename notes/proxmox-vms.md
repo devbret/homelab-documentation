@@ -1,13 +1,17 @@
 # Proxmox Virtual Machines
 
-![Screenshot of my Proxmox Virtual Environment with 11 virtual machines.](https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/b9c6de83-e279-48af-9866-10236d6ed19a.png)
+![Screenshot of my Proxmox Virtual Environment with 11 virtual machines.](https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/c77fe7c2-4f3f-4e2d-a133-4a5ac9f356da.png)
 
-I presently have 11 virtual machines (each a different Linux OS) available in my Proxmox VE. Ranging from Kali Linux to to RefreshOS. I use these virtual machines to explore unique Linux distributions without having to install any of them cold hardware.
+I presently have 2 virtual machines (Kali Linux and Ubuntu) available in my Proxmox VE. I use these virtual machines to explore unique Linux distributions without having to install any of them cold hardware.
 
 ## Experimenting With Different Linux Distros
 
 The Linux operating systems I maintain as virtual machines were each selected for specific reasons.
 
-### RefreshOS
+### Kali Linux
 
-RefreshOS is a beautiful, polished, smaller Linux distro built on top of Debian 13 and KDE Plasma 6. This operating system is self-described as "_Debian for everyone_"; an alternative to Ubuntu.
+[Kali Linux](https://www.kali.org/) is a Debian-based distribution intended for cybersecurity and digital forensics. It comes with hundreds of tools preinstalled. It is maintained by [Offensive Security](https://www.offsec.com/) (OffSec) with regular updates since March of 2013.
+
+### Ubuntu
+
+[Ubuntu](https://ubuntu.com/) is a Debian-based distro which has been maintained by [Canonical](https://canonical.com/) since 2004. This operating system is widely considered to be a default Linux distribution.
