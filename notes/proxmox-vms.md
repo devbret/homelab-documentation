@@ -35,3 +35,7 @@ Founded in 1993 by Ian Murdock, [Debian](https://www.debian.org/) is one of the 
 ### VanillaOS
 
 [Vanilla OS](https://vanillaos.org/) is an immutable, atomic Linux distro built around the GNOME desktop. This OS was founded by Mirko Brombin, who also created [Bottles](https://usebottles.com/), with a stable release arriving at the end of 2022.
+
+### LDME
+
+[LMDE](https://linuxmint.com/download_lmde.php) is a version of Linux Mint built on Debian instead of Ubuntu. The team responsible for LMDE maintains it partly as a backup plan, so Mint could carry on if Ubuntu ever became unavailable or unsuitable.
